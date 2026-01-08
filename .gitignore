@@ -1,10 +1,10 @@
-.vs
 *.user
 *.suo
 
+.vs/
 Binaries/
 Intermediate/
-DerivedCacheData/
+DerivedDataCache/
 Saved/
 
 bin/
